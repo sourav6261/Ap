@@ -527,7 +527,7 @@ class _TabOneState extends State<TabOne> {
                                   borderRadius: BorderRadius.circular(1),
                                   border: Border.all(
                                       color: const Color.fromARGB(
-                                          255, 220, 230, 238)),
+                                          255, 220, 230, 238),),
                                   color:
                                       const Color.fromARGB(255, 255, 255, 255),
                                 ),
